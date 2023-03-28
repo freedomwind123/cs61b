@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44981237-8415-4f05-ba0e-ece5004360ab" name="变更" comment="the first complete the project_1b at March.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/test/TestOffByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/OffByN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/OffByN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/OffByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/OffByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/PalindromeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/test/PalindromeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/TestOffByOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/TestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/test/TestPalindrome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NdR3d9EKWGEJBl1A1H81vc8aFM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/cs61b-work/code of the class/library-sp18/javalib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "库",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestOffByOne.testequalChars">
+    <configuration name="PalindromeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.test.PalindromeFinder" />
+      <module name="project1B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOffByOne.testequalChars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project1B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project.test" />
+      <option name="MAIN_CLASS_NAME" value="project.test.TestOffByOne" />
+      <option name="METHOD_NAME" value="testequalChars" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project1B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project.test" />
+      <option name="MAIN_CLASS_NAME" value="project.test.TestPalindrome" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome.testWordToDeque" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project1B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project.test" />
+      <option name="MAIN_CLASS_NAME" value="project.test.TestPalindrome" />
+      <option name="METHOD_NAME" value="testWordToDeque" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome.testisPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project1B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project.test" />
+      <option name="MAIN_CLASS_NAME" value="project.test.TestPalindrome" />
+      <option name="METHOD_NAME" value="testisPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestOffByOne.testequalChars" />
+        <item itemvalue="应用程序.PalindromeFinder" />
+        <item itemvalue="JUnit.TestPalindrome.testisPalindrome" />
+        <item itemvalue="JUnit.TestPalindrome.testWordToDeque" />
+        <item itemvalue="JUnit.TestPalindrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="44981237-8415-4f05-ba0e-ece5004360ab" name="变更" comment="" />
+      <created>1679991776167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679991776167</updated>
+      <workItem from="1679991777313" duration="5052000" />
+    </task>
+    <task id="LOCAL-00001" summary="the first complete the project_1b at March.">
+      <created>1679995615980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679995615980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="the first complete the project_1b at March." />
+    <option name="LAST_COMMIT_MESSAGE" value="the first complete the project_1b at March." />
+  </component>
+</project>
